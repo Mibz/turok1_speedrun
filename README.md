@@ -1,2 +1,2 @@
-# turok1_speedrun
-Information on speedrunning Turok: Remastered
+# Speedrunning Turok: Remastered
+See the [Wiki](../../wiki) for everything you need!
