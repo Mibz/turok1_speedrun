@@ -1,0 +1,4 @@
+**/*.7z
+**/tmp/*
+**/versions/turok_*
+**/backups/*
