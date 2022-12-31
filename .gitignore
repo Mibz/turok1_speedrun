@@ -1,4 +1,7 @@
-**/*.7z
-**/tmp/*
-**/versions/turok_*
-**/backups/*
+# Ignore everything
+*
+
+# Except what matters
+!.gitignore
+!LICENSE
+!README.md
